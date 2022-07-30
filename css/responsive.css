@@ -1,0 +1,217 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+	.header-area .navbar-brand  {
+    	font-size: 35px;
+    }
+
+    .hdtitle-item {
+	    padding: 50px 15px 10px 15px;
+	    background: #FFFAF0;
+	}
+
+
+    #days {
+	  font-size: 80px;
+	}
+
+	#hours {
+	  font-size: 80px;
+	}
+
+	#minutes {
+	  font-size: 80px;
+	}
+
+	#seconds {
+	  font-size: 50px;
+	}
+
+	.main-content .owl-theme .custom-nav {
+	  display: none;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+	.header-area .navbar-brand  {
+    	font-size: 34px;
+    }
+
+
+    .carousel-item1 {
+    	padding: 0 10px;
+    }
+
+    .carousel-item1 ul li a {
+    	margin: 20px 10px 0 0;
+    }
+
+    .hdtitle-content h2 img {
+	    width: 70px;
+	    line-height: 70px;
+	    height: 70px;
+	}
+
+	.hdtitle-item {
+	    padding: 50px 15px 10px 15px;
+	    background: #FFFAF0;
+	}
+
+	#days {
+	  font-size: 60px;
+	}
+
+	#hours {
+	  font-size: 60px;
+	}
+
+	#minutes {
+	  font-size: 60px;
+	}
+
+	#seconds {
+	  font-size: 50px;
+	}
+
+	.main-content .owl-theme .custom-nav {
+	  display: none;
+	}
+
+	.ziehharmonika #acrdn {
+		font-size: 13px;
+	}
+
+	.hdtitle-content .hdtitle-t1 {
+	    height: 715px;
+	}
+
+	.hdtitle-content .hdtitle-type1 {
+	    height: 170px;
+	}
+
+	.hdtitle-item h1 {
+		margin-top: 10px;
+	}
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
